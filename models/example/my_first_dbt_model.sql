@@ -11,9 +11,9 @@
 
 with source_data as (
 
-    select 1 as idx
+    select 1 as idxs
     UNION all
-    select 2 as idx
+    select 2 as idxs
     union all
     select null as idx
 
