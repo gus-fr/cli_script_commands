@@ -11,11 +11,11 @@
 
 with source_data as (
 
-    select 1 as id
+    select 1 as idx
     UNION all
-    select 2 as id
+    select 2 as idx
     union all
-    select null as id
+    select null as idx
 
 )
 
