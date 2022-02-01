@@ -1,1 +1,1 @@
-# dbt_cloud_test
+# CLI Utility Script
